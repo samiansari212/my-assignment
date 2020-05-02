@@ -1,0 +1,242 @@
+nav{
+    background-color:  #316DC3;
+    text-align: center;
+    color: white;
+    justify-content: center;
+}
+.main{
+    color: white;
+}
+.form{
+    margin: 5px;
+    background-color: white;
+    border: 1px solid grey;
+}
+.color{
+    background-color: #316DC3;
+    text-align: center;
+    width: 1100px;
+    height: 25px;
+    margin: 0px 0px 0px 115px;
+}
+.para{
+    display: inline-block;
+    color:lightgreen;
+}
+.pass{
+    display: inline-block;
+    color: white;
+}
+.index {
+    background-color: rgba(241, 240, 240, 0.575);
+}
+
+
+
+.paragraph {
+    color: grey;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 0.2em;
+    letter-spacing: 1px;
+    padding: 10px 150px 0px 150px;
+    text-align: justify;
+}
+.bar{
+    margin: 90px 0px 0px 0px;
+    background-color:  #316DC3 ;
+    text-align: center;
+    height: 270px;
+    padding: 3px 0px 0px 0px;
+}
+.size {
+    color: white;
+    font-size: 50px;
+}
+.info {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 50px;
+}
+b{
+    color: yellowgreen;
+}
+table{
+    margin: 50px 50px 50px 130px;
+}
+td{
+    padding: 5px;
+}
+.white {
+    background-color: white;
+    width: 300px;
+    height: 150px;
+    padding: 40px 30px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    color:  #316DC3;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: gray 10px 10px 15px ;
+    display: inline-block;
+    margin: 40px 10px 40px 100px;
+}
+.margin {
+    margin: 50px 30px 10px 95px;
+    display: inline-block;
+    color:  #316DC3;
+}
+.events{
+    display: inline-block;
+    margin: 0px 30px 0px 340px;
+    color:  #316DC3;
+}
+.loading {
+    margin: 0px 30px 0px 95px;
+    color: green;
+}
+.pro{
+    color: green;
+    margin: 0px 30px 0px 940px;
+}
+.maindiv {
+    /* display: flex; */
+}
+.Hepatitis {
+    border: 1px solid  rgba(241, 240, 240, 0.575);
+    width: 400px;
+    height:80px;
+    background-color:  rgba(241, 240, 240, 0.575);
+    color: #316DC3;
+    font-weight: bold;
+    margin: 0px 10px 10px 95px;
+    display: inline-block;
+    display: inline-flex;
+}
+.hepa{
+    padding: 0px 0px 0px 20px;
+}
+.tities {
+    padding: 25px 0px 0px 50px;
+    display: inline-block;
+}
+.house {
+    border: 1px solid  rgba(241, 240, 240, 0.575);
+    width: 400px;
+    height:80px;
+    background-color:  rgba(241, 240, 240, 0.575);
+    color: #316DC3;
+    font-weight: bold;
+    margin: 0px 0px 10px 10px;
+    display: inline-block;
+    display: inline-flex;
+}
+.hose{
+    padding: 25px 0px 0px 50px;
+    display: inline-block;
+}
+.welfare {
+    /* height: 120px; */
+    width: 200px;
+    margin: 20px 0px 0px 15px;
+    display: inline-block;
+}
+.it {
+    border: 1px solid  rgba(241, 240, 240, 0.575);
+    width: 400px;
+    height:80px;
+    background-color:  rgba(241, 240, 240, 0.575);
+    color: #316DC3;
+    font-weight: bold;
+    margin: 0px 10px 10px 95px;
+    display: inline-block;
+}
+.tharparkar {
+    border: 1px solid  rgba(241, 240, 240, 0.575);
+    width: 400px;
+    height:80px;
+    background-color:  rgba(241, 240, 240, 0.575);
+    color: #316DC3;
+    font-weight: bold;
+    margin: 0px 10px 10px 10px;
+    display: inline-block;
+}
+.image {
+    margin: 30px 0px 100px 120px;
+}
+.links {
+    padding: 30px 10px 5px 600px;
+    display: inline-block;
+}
+.contact {
+    display: inline-block;
+    padding: 30px 10px 5px 250px;
+}
+.load {
+    padding: 0px 0px 0px 510px;
+}
+.address {
+    padding: 0px 10px 0px 110px;
+    display: inline-block;
+}
+.pics {
+    display: inline-block;
+    padding: 0px 0px 0px 520px;
+}
+ul {
+    padding: 0px 0px 0px 110px;
+    list-style: none;
+}
+.grey {
+    background-color: gray;
+    color: white;
+    padding: 10px 0px 80px 0px;
+}
+.fix {
+    color: white;
+    background-color: #316DC3;
+    height: 40px;
+    padding: 10px 0px 0px 40px;
+    font-size: 12px;
+}
+.target {
+    color: #316DC3;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 0px 0px 0px 450px;
+}
+.gallery {
+    color: yellowgreen;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 30px;
+}
+.tap {
+   padding: 0px 0px 0px 610px; 
+}
+.what {
+    color: #316DC3;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 30px;
+}
+.are {
+    color: yellowgreen;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 30px;
+}
+.knock {
+    padding: 40px 0px 20px 500px;
+}
+.top {
+    padding: 50px 0px 10px 500px;
+}
+.tapp {
+    padding: 0px 0px 0px 560px;
+}
+.but {
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+}
